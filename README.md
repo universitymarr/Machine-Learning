@@ -11,7 +11,7 @@
 
 | Author |  Last Update |
 |--------| ------------ | 
-| [Sveva Pepe](https://github.com/pepes97) | 2020 | 
+| [Sveva Pepe](https://github.com/pepes97) | 2019 | 
 
 ## Homework 1, Homework 2
 
