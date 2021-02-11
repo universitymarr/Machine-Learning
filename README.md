@@ -1,8 +1,19 @@
 # Machine Learning - Sapienza 2019
 
-Here you can find the books to study from and the exam papers from the past appeals. [2017-2019]
+|   | Available | Last Update |
+| ------------- | ------------- | ------------ |
+| Exams | Yes | 2019 |
+| Homework  | Yes  | 2019 |
+| Notes  | No  | | |
+| Slides | Yes | 2019 |
 
-## Homework1
+## Homework 
+
+| Author |  Last Update | 
+|--------| ------------ | 
+| [Sveva Pepe](https://github.com/pepes97) | 2020 | 
+
+### Homework1
 
 Project development
 
@@ -22,7 +33,7 @@ Note: Use any method at your choice, except neural networks.
 ```bash
 Homework1/homework1_colab.ipynb
 ```
-## Homework2
+### Homework2
 
 Project development
 
