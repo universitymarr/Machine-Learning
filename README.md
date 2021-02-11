@@ -7,7 +7,11 @@
 | Notes  | No  | | |
 | Slides | Yes | 2019 |
 
-## Homework 
+# Solutions of Exams by
+|--------| ------------ | 
+| [Sveva Pepe](https://github.com/pepes97) | 2020 | 
+
+## Homework 1, Homework 2
 
 | Author |  Last Update | 
 |--------| ------------ | 
