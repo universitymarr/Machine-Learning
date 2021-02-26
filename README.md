@@ -13,6 +13,12 @@
 |--------| ------------ | 
 | [Sveva Pepe](https://github.com/pepes97) | 2019 | 
 
+# Slides + Notes by
+
+| Author |  Last Update |
+|--------| ------------ | 
+| Veronica Romano | 2021 | 
+
 ## Homework 1, Homework 2
 
 | Author |  Last Update | 
