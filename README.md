@@ -1,4 +1,4 @@
-# Machine Learning - Sapienza 2019
+# Machine Learning
 
 |   | Available | Last Update |
 | ------------- | ------------- | ------------ |
