@@ -37,7 +37,7 @@ Note: Use any method at your choice, except neural networks.
 *Run the file with Google Colab, using the GPU. It's free.*
 
 ```bash
-Homework1/homework1_colab.ipynb
+Homework/Homework1/homework1_colab.ipynb
 ```
 ### Homework2
 
@@ -60,10 +60,11 @@ For training you can use any subset of the MWI dataset.
 
 *Standard Dataset*
 ```bash
-Homework2/homework2_colab.ipynb
+
+Homework/Homework2/homework2_colab.ipynb
 ```
 
 *External Dataset*
 ```bash
-Homework2/homework2_WeatherTest.ipynb
+Homework/Homework2/homework2_WeatherTest.ipynb
 ```
