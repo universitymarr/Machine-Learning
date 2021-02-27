@@ -7,13 +7,20 @@
 | Notes  | No  | | |
 | Slides | Yes | 2019 |
 
-# Solutions of Exams by
+## Website of the course
+
+|  Course Site | Key | Last Update |
+| ------------- | ------------- | ------------ |
+| [https://classroom.google.com/u/0/h](https://classroom.google.com/u/0/h) | kitgmrs | 2020 |
+| [https://classroom.google.com/u/0/h](https://classroom.google.com/u/0/h) | ols99s7 | 2019 |
+
+## Solutions of Exams by
 
 | Author |  Last Update |
 |--------| ------------ | 
 | [Sveva Pepe](https://github.com/pepes97) | 2019 | 
 
-# Slides + Notes by
+## Slides + Notes by
 
 | Author |  Last Update |
 |--------| ------------ | 
