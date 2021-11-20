@@ -49,9 +49,9 @@ Note: Use any method at your choice, except neural networks.
 
 *Run the file with Google Colab, using the GPU. It's free.*
 
-```bash
-Homework/Homework1/homework1_colab.ipynb
-```
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/universitymarr/Machine-Learning/blob/master/Homework/Homework1/homework1_colab.ipynb#scrollTo=IFBlVW-LFnGI)
+
 ### Homework2
 
 Project development
@@ -72,12 +72,9 @@ For training you can use any subset of the MWI dataset.
 **Here we have 2 files, because a training was done on a standard dataset and the other on an external one that was provided to us in a seminar.** 
 
 *Standard Dataset*
-```bash
 
-Homework/Homework2/homework2_colab.ipynb
-```
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/universitymarr/Machine-Learning/blob/master/Homework/Homework2/homework2_colab.ipynb)
 
 *External Dataset*
-```bash
-Homework/Homework2/homework2_WeatherTest.ipynb
-```
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/universitymarr/Machine-Learning/blob/master/Homework/Homework2/homework2_WeatherTest.ipynb)
