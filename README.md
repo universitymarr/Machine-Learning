@@ -4,7 +4,7 @@
 | ------------- | ------------- | ------------ |
 | Exams | Yes | 2019 |
 | Homework  | Yes  | 2019 |
-| Notes  | No  | | |
+| Notes  | Yes  | 2021 | 
 | Slides | Yes | 2019 |
 
 ## Website of the course
