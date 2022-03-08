@@ -5,7 +5,7 @@
 | Exams | Yes | 2019 |
 | Homework  | Yes  | 2019 |
 | Notes  | Yes  | 2021 | 
-| Slides | Yes | 2019 |
+| Slides | Yes | 2021 |
 
 ## Solutions of Exams by
 
