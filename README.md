@@ -4,7 +4,7 @@
 | ------------- | ------------- | ------------ |
 | Exams | Yes | 2024 |
 | Homework  | Yes  | 2019 |
-| Notes  | Yes  | 2021 | 
+| Notes  | Yes  | 2023 | 
 | Slides | Yes | 2021 |
 
 ## Solutions of Exams by
@@ -24,6 +24,13 @@
 | Author |  Last Update | 
 |--------| ------------ | 
 | [Sveva Pepe](https://github.com/pepes97) | 2020 | 
+
+## LaTeX notes by
+
+| Author |  Last Update |
+|--------| ------------ | 
+| Alessandro Carotenuto | 2023 | 
+
 
 ### Homework1
 
